@@ -1,5 +1,5 @@
 # Coder-Kids-Harrisburg
-Coder Kids Harrisburg resources - curriculum, Python, LearnToMod and Scratch Projects
+Coder Kids Harrisburg Teaching Resources - ages 5-17 curriculum, Python, LearnToMod and Scratch Projects
 
 Coder Kids was founded in early 2014. It is a non-profit 501(c)3 registered organization, created to help both girls and boys ages 5 and up who are interested in computers and programming.
 
